@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024.02.25 17:24:02.736.cpp,C:\Users\geard\OneDrive\Documents\RAD Studio\Projects\Unit1.cpp=E:\projects\geardung\NKSE_C+++\Unit1.cpp</Transaction>
+    <Transaction>2024.02.25 17:24:02.736.h,C:\Users\geard\OneDrive\Documents\RAD Studio\Projects\Unit1.h=E:\projects\geardung\NKSE_C+++\Unit1.h</Transaction>
+    <Transaction>2024.02.25 17:24:02.736.dfm,C:\Users\geard\OneDrive\Documents\RAD Studio\Projects\Unit1.dfm=E:\projects\geardung\NKSE_C+++\Unit1.dfm</Transaction>
+    <Transaction>2024.02.25 17:24:03.879.cbproj,C:\Users\geard\OneDrive\Documents\RAD Studio\Projects\Project1.cbproj=E:\projects\geardung\NKSE_C+++\Project1.cbproj</Transaction>
+    <Transaction>2024.02.27 20:29:51.556.pas,C:\Users\geard\Downloads\JsonDataObjects.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
