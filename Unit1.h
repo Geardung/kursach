@@ -16,6 +16,7 @@
 #include <Grids.hpp>
 #include <ValEdit.hpp>
 #include <ExtCtrls.hpp>
+#include "json.hpp"
 //---------------------------------------------------------------------------
 class TForm1 : public TForm
 {

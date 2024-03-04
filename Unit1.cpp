@@ -4,6 +4,7 @@
 #pragma hdrstop
 
 #include "Unit1.h"
+
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma link "IdBaseComponent"
@@ -30,7 +31,7 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 		if (! (ValueListEditor1->Cells[0][x] != "" & ValueListEditor1->Cells[1][x] != "")) continue;
 		url = url + "&" + ValueListEditor1->Cells[0][x] + "=" + ValueListEditor1->Cells[1][x];
 	}
-	TJSONObject zcx;
+
 	UnicodeString result;
 
 	result = IdHTTP1->Get(url);
